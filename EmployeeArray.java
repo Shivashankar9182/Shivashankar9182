@@ -22,7 +22,7 @@ package com.apjfsa;
 }
 
 public class EmployeeArray {
-
+	
     public static void main(String[] args) {
         // Define the size of the employee array
         int size = 4;
